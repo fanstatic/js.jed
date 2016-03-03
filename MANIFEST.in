@@ -1,0 +1,3 @@
+recursive-include js/jed/resources *.*
+recursive-include js/jed *.txt
+include *.txt
